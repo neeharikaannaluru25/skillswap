@@ -118,4 +118,4 @@ Created by [neeharikaannaluru25](https://github.com/neeharikaannaluru25).
 
 - GitHub profile: https://github.com/neeharikaannaluru25
 - Repository: https://github.com/neeharikaannaluru25/skillswap.
-- Expected Pages URL: https://neeharikaannaluru25.github.io/skillswap/ (not yet deployed).
+- Expected Pages URL: https://neeharikaannaluru25.github.io/skillswap/.
